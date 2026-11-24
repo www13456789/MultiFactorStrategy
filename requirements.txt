@@ -1,0 +1,6 @@
+pandas>=2.0.0
+numpy>=1.22.0
+scipy>=1.10.0
+matplotlib>=3.5.0
+akshare>=1.18.0
+baostock>=0.8.9
